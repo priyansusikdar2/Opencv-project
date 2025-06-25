@@ -1,6 +1,6 @@
-How to Set Up and Run
+** How to Set Up and Run **
 
-Prerequisites
+** Prerequisites **
 
 Install the following dependencies:
 pip install -r requirements.txt
@@ -9,7 +9,7 @@ Running the Project
 
 python src/main_yolo_deepsort.py
 
-Environment Requirements
+** Environment Requirements **
 
 Python 3.8+
 
